@@ -1,1 +1,1 @@
-Temporary CI trigger file to build the Android APK and verify the workflow. Contains no secrets.
+Temporary CI trigger file to build the Android APK and verify the workflow. Contains no secrets. Retrying after correcting the Android SDK setup step.
