@@ -6,6 +6,11 @@ on:
     paths:
       - 'AstrBotMobile/**'
       - '.github/workflows/build-apk.yml'
+  pull_request:
+    branches: [main, master]
+    paths:
+      - 'AstrBotMobile/**'
+      - '.github/workflows/build-apk.yml'
   workflow_dispatch:
 
 permissions:
