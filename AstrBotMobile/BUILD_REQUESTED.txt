@@ -1,0 +1,1 @@
+Build trigger for the AstrBot Android APK workflow. This file contains no secrets.
